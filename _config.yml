@@ -91,7 +91,7 @@ repository: <USERNAME>/<PROJECT>
 email: "team@carpentries.org"
 
 # Sites.
-amy_site: "https://amy.carpentries.org"
+#amy_site: "https://amy.carpentries.org"
 carpentries_github: "https://github.com/carpentries"
 carpentries_pages: "https://carpentries.github.io"
 carpentries_site: "https://carpentries.org/"
@@ -100,7 +100,7 @@ example_repo: "https://github.com/carpentries/lesson-example"
 example_site: "https://carpentries.github.io/lesson-example"
 incubator: "https://carpentries-incubator.org/"
 lc_site: "https://librarycarpentry.org/"
-swc_github: "https://github.com/swcarpentry"
+#swc_github: "https://github.com/swcarpentry"
 swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
